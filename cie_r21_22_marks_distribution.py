@@ -2,7 +2,6 @@ import streamlit as st
 import pandas as pd
 import random
 import io
-
 # Function to generate random distribution of marks
 def generate_marks_distribution():
     # Part A: 12 questions with marks 0 or 1, total 12 marks
